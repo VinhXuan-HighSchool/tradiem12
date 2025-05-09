@@ -1,0 +1,30 @@
+{
+    "toan": [
+        "Toán",
+        "toan_12"
+    ],
+    "ly": [
+        "Vật lý",
+        "ly_12"
+    ],
+    "hoa": [
+        "Hóa học",
+        "hoa_12"
+    ],
+    "sinh": [
+        "Sinh học",
+        "sinh_12"
+    ],
+    "su": [
+        "Lịch sử",
+        "su_12"
+    ],
+    "tin": [
+        "Tin học",
+        "tin_12"
+    ],
+    "tienganh": [
+        "Tiếng Anh",
+        "ta_12"
+    ]
+}

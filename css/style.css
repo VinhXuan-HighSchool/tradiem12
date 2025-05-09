@@ -1,6 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f9;
+    font-size: 16pt;
+    background-color: #5d97ee;
     margin: 0;
     padding: 0;
     display: flex;
@@ -18,12 +19,19 @@ body {
     text-align: center;
 }
 
-input,
 select,
 button {
     margin: 10px 0;
     padding: 10px;
     width: 100%;
+    font-size: 13pt;
+}
+
+input {
+    margin: 10px 0;
+    padding: 10px;
+    width: 94%;
+    font-size: 13pt;
 }
 
 img {
@@ -68,4 +76,8 @@ img {
     color: black;
     text-decoration: none;
     cursor: pointer;
+}
+
+.highlight-red {
+    color: red;
 }
